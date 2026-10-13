@@ -10,7 +10,11 @@
 
 ## Salidas de SELECT
 
-![diagrama3](media/salidas_select.png)
+![salida](media/salidas_select.png)
+
+## Demostración DELETE
+
+![salidaDelete](media/demostracion_delete.png)
 
 ## Autores
 - Andrés David Riera Rivera
