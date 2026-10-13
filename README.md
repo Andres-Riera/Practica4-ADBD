@@ -14,6 +14,16 @@
 
 ## Demostración DELETE
 
+```sql
+SELECT COUNT(*) FROM pedidos;
+
+DELETE FROM tareas WHERE id_empleado = 3;
+DELETE FROM empleados WHERE id_empleado = 3;
+
+SELECT * FROM pedidos;
+SELECT COUNT(*) FROM pedidos; 
+```
+
 ![salidaDelete](media/demostracion_delete.png)
 
 ## Autores
